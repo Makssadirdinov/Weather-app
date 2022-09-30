@@ -1,13 +1,15 @@
 https://makssadirdinov.github.io/Weather-app/
+<br>
 //-----------------------------------------------
+<br>
 Запуск проекта
 Склонируйте репозиторий.
 Перейдите в директорию с проектом и установите зависимости: npm install.
 Запустите проект: npm start.
 Откройте браузер (должен открыться автоматически) и перейдите http://localhost:3000.
-
+<br>
 //-------------------------------------------------
-
+<br>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
