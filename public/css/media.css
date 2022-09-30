@@ -1,0 +1,27 @@
+@media screen and (max-width: 767px) {
+    .container {
+        width: auto;
+    }
+    .card {
+        margin: 0 10px 20px 10px;
+        min-height: 400px;
+        min-width: 350px;
+        background-color: #090435;
+        border-radius: 24px;
+        display: grid;
+        grid-template-columns: 1fr;
+        box-shadow: 20px 20px 50px rgb(0 0 0 / 50%);
+    }
+    .right-col {
+        display: grid;
+        padding: 50px;
+    }
+    .left-col {
+        padding: 10px 40px;
+        background-image: linear-gradient(to bottom right, rgba(9, 4, 53, 0.8), rgba(9, 4, 53, 0.2)), url(../img/weather-cover.jpg);
+        border: 1px solid rgba(255, 255, 255, 0.5);
+        border-radius: 24px;
+        transform: scale(0.9);
+    }
+
+}
